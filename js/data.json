@@ -1,0 +1,38 @@
+[{
+    "itemOne": {
+        "title": "Model S",
+        "paragraph": "Plad",
+        "image": "./images/model-s.jpeg"
+    },
+    "itemTwo": {
+        "title": "Model 3",
+        "paragraph": "Plad",
+        "image": "./images/model-3.jpeg"
+    },
+    "itemThree": {
+        "title": "Model X",
+        "paragraph": "Plad",
+        "image": "./images/model-x.webp"
+    },
+    "itemFour": {
+        "title": "Model Y",
+        "paragraph": "Plad",
+        "image": "./images/model-y.webp"
+    },
+    "itemFive": {
+        "title": "Solar Roof",
+        "paragraph": "Beautiful Solar",
+        "image": "./images/solar-roof.webp"
+    },
+    "itemSix": {
+        "title": "Solar Panels",
+        "paragraph": "Lowest Cost Solar Panels in America",
+        "image": "./images/panels.webp"
+    },
+    "itemSeven": {
+        "title": "Powerwall",
+        "paragraph": "Backup energy storage",
+        "image": "./images/powerwall.webp"
+    }
+    
+}]
